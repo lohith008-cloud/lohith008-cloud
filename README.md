@@ -3,7 +3,7 @@
  🎓 About Me
 - 🎓 Recently Graduated with a Bachelor's Degree in Computer Science Engineering From Saveetha School of Engineering (CGPA: 8.1)
 - 💻 Python Programming Intern at DATASOFTIXS (Jan 2025 - Feb 2025)
-- 🔍 Interested in Machine Learning, Data Science,Data Analytics and Full Stack Development
+- 🔍 Interested in Machine Learning, Data Science,Data Analytics,Data Engineering and Full Stack Development
 - 🌱 Currently learning advanced Python concepts and Machine Learning algorithms
 
 💻 Technical Skills
@@ -26,11 +26,15 @@
 - Microsoft - Fundamentals of Gen AI (2024)
 - Udemy - Python Programming (2024)
 - Oracle - Cloud Infrastructure Gen AI (2024)
+- Oracle - Cloud Infrastructure Data Science Professional (2025)
+
 
  💞️ I'm looking to collaborate on
 - Open source Python projects
 - Machine Learning applications
 - Web development projects
+- Data Science Projects
+
 
  📫 How to reach me
 - Email: lohithgayam007@gmail.com
