@@ -18,7 +18,7 @@
 - **Insurance Fraud Detection** - ML project using Decision Tree Classification with 93% accuracy
 - **Dairy Farm Management System** - Full stack web application using HTML, CSS, JavaScript, PHP, and MySQL
 - **Portfolio Website** - A portfolio website is a personal online platform built using HTML, CSS, and JavaScript to showcase your skills, projects, and achievements to    potential employers or clients.
-   --- Website Link ---- (https://lohith008-cloud.github.io/Portfolio-Chinni) 
+- **Website Link** - (https://lohith008-cloud.github.io/Portfolio-Chinni) 
 
  🏆 Achievements
 - Best Player - Cricket Tournament (2022)
