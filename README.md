@@ -1,7 +1,7 @@
 👋 Hi, I'm Lohith Reddy Gayam
 
  🎓 About Me
-- 🎓 Recently Graduated with a Bachelor's Degree in Computer Science Engineering From Saveetha School of Engineering (CGPA: 8.1)
+- 🎓 Recently Graduated with a Bachelor's Degree in Computer Science Engineering From Saveetha School of Engineering (CGPA: 8.2)
 - 💻 Python Programming Intern at DATASOFTIXS (Jan 2025 - Feb 2025)
 - 🔍 Interested in Machine Learning, Data Science,Data Analytics,Data Engineering and Full Stack Development
 - 🌱 Currently learning advanced Python concepts and Machine Learning algorithms
@@ -11,7 +11,7 @@
 - **Web Development:** HTML, CSS
 - **Database:** SQL
 - **Software Development:** SDLC
-- **Tools & Technologies:** Pandas, NumPy, Scikit-learn
+- **Tools & Technologies:** Pandas, NumPy, Scikit-learn, Aws
 
  🚀 Projects
 - **Student Management System** - Console-based CRUD application using Python OOP concepts and file handling
