@@ -7,11 +7,11 @@
 - 🌱 Currently learning advanced Python concepts and Machine Learning algorithms
 
 💻 Technical Skills
-- **Programming Languages:** Python, Object-Oriented Programming, Data Structures & Algorithms
+- **Programming Languages:** Python, Object-Oriented Programming
+- **Libraries:** Pandas,Numpy,Matplotlib,Seaborn
 - **Web Development:** HTML, CSS
 - **Database:** SQL
 - **Software Development:** SDLC
-- **Tools & Technologies:** Pandas, NumPy, Scikit-learn, Aws
 
  🚀 Projects
 - **Student Management System** - Console-based CRUD application using Python OOP concepts and file handling
@@ -36,6 +36,7 @@
 - Machine Learning applications
 - Web development projects
 - Data Science Projects
+- Data Analyst Projects
 
 
  📫 How to reach me
