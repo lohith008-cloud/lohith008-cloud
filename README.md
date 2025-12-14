@@ -18,7 +18,8 @@
 - **Insurance Fraud Detection** - ML project using Decision Tree Classification with 93% accuracy
 - **Dairy Farm Management System** - Full stack web application using HTML, CSS, JavaScript, PHP, and MySQL
 - **Portfolio Website** - A portfolio website is a personal online platform built using HTML, CSS, and JavaScript to showcase your skills, projects, and achievements to    potential employers or clients.
-- **Website Link** - (https://chinniwebsite.netlify.app) 
+- **Website Link** - (https://chinniwebsite.netlify.app)
+- **Hugging Face** - (https://huggingface.co/spaces/chinni07/DataAnalysisandMachineLearningPlatform)
 
  🏆 Achievements
 - Best Player - Cricket Tournament (2022)
