@@ -1,56 +1,116 @@
-👋 Hi, I'm Lohith Reddy Gayam
+# 👋 Hi, I'm Lohith Reddy Gayam
+## 📊 Data Science & ML Fresher | Python | SQL | Power BI | Machine Learning
 
- 🎓 About Me
-- 🎓 Recently Graduated with a Bachelor's Degree in Computer Science Engineering From Saveetha School of Engineering (CGPA: 8.2)
-- 💻 Python Programming Intern at DATASOFTIXS (Jan 2025 - Feb 2025)
-- 🔍 Interested in Machine Learning, Data Science,Data Analytics,Data Engineering and Full Stack Development
-- 🌱 Currently learning advanced Python concepts and Machine Learning algorithms
+Recently graduated from **Saveetha School of Engineering** (B.E CSE, CGPA: 8.21) with a passion for turning data into actionable insights. Currently seeking **Data Scientist / Data Analyst** roles where I can apply Python, ML algorithms, and data visualization skills.
 
-💻 Technical Skills
-- **Programming Languages:** Python, Object-Oriented Programming
-- **Libraries:** Pandas,Numpy,Matplotlib,Seaborn
-- **Web Development:** HTML, CSS
-- **Database:** SQL
-- **Software Development:** SDLC
+---
 
- 🚀 Projects
-- **Student Management System** - Console-based CRUD application using Python OOP concepts and file handling
-- **Insurance Fraud Detection** - ML project using Decision Tree Classification with 93% accuracy
-- **Dairy Farm Management System** - Full stack web application using HTML, CSS, JavaScript, PHP, and MySQL
-- **Portfolio Website** - A portfolio website is a personal online platform built using HTML, CSS, and JavaScript to showcase your skills, projects, and achievements to    potential employers or clients.
-- **Website Link** - (https://chinniwebsite.netlify.app)
-- **Hugging Face** - (https://huggingface.co/spaces/chinni07/DataAnalysisandMachineLearningPlatform)
+## 💻 Technical Skills
 
- 🏆 Achievements
-- Best Player - Cricket Tournament (2022)
-- Best Player - Badminton (2019)
+**Data & Machine Learning:**
+- Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
+- Machine Learning (Classification, Regression, Feature Engineering, Decision Trees)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- SQL (MySQL, data querying)
 
- 📚 Certifications
-- Microsoft - Fundamentals of Gen AI (2024)
-- Udemy - Python Programming (2024)
-- Oracle - Cloud Infrastructure Gen AI (2024)
-- Oracle - Cloud Infrastructure Data Science Professional (2025)
+**Web Development:**
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, MySQL
 
+**Tools & Platforms:**
+- Jupyter Notebook, VS Code, Git & GitHub
+- Power BI (Data Visualization & Dashboards)
+- MS Excel (Advanced)
 
- 💞️ I'm looking to collaborate on
-- Open source Python projects
-- Machine Learning applications
-- Web development projects
-- Data Science Projects
-- Data Analyst Projects
+---
 
+## 🚀 Featured Projects
 
- 📫 How to reach me
-- Email: lohithgayam007@gmail.com
-- LinkedIn: [www.linkedin.com/in/lohith-reddy-gayam-14906a296](https://www.linkedin.com/in/lohith-reddy-gayam-14906a296).
-- Phone: +91 7842200768
+### 1. **Insurance Fraud Detection using Machine Learning**
+- Built a Decision Tree Classification model with **93% accuracy**
+- Implemented feature engineering and model tuning for optimal performance
+- [Explore on GitHub](https://github.com/lohith008-cloud)
 
- 🗣️ Languages
-- English
-- Hindi
-- Telugu
-- Tamil
+### 2. **Dairy Farm Shop Management System**
+- Full-stack web application using HTML, CSS, JavaScript, PHP, MySQL
+- Automated inventory tracking and reporting
+- [View Repository](https://github.com/lohith008-cloud/Dairy-Farm-Shop-Management-System)
 
+### 3. **Student Management System (Python Internship Project)**
+- Console-based CRUD application using OOP concepts and file handling
+- Developed during Python Programming Internship at DATASOFTIXS (Jan–Feb 2025)
+- [GitHub Link](https://github.com/lohith008-cloud)
 
-⚡ Fun fact
-- I'm not just a coder, but also an athlete with achievements in both cricket and badminton!
+### 4. **Automated EDA Toolkit**
+- Python-based tool for automated exploratory data analysis
+- Generates comprehensive statistical summaries and visualizations
+- [Repository](https://github.com/lohith008-cloud/automated-eda-toolkit)
+
+### 5. **Data Science Internship Tasks**
+- Collection of machine learning and data science assignments
+- Real-world projects from Innomatics Research Labs internship
+- [Jupyter Notebooks](https://github.com/lohith008-cloud/Data-Science-internship-Tasks-)
+
+---
+
+## 🏢 Experience
+
+**Python Programming Intern** @ DATASOFTIXS *(Jan – Feb 2025)*
+- Developed Student Management System using Python OOP and file handling
+- Implemented data validation and exception handling
+- Collaborated with team on software development best practices
+
+---
+
+## 🎓 Certifications
+
+- **Oracle Cloud Infrastructure Data Science Professional** (2025)
+- **Oracle Cloud Infrastructure Gen AI Foundations** (2024)
+- **Microsoft Fundamentals of Gen AI** (2024)
+- **Udemy Python Programming** (2024)
+
+---
+
+## 🔗 Portfolio & Projects
+
+- **Portfolio Website:** [chinniwebsite.netlify.app](https://chinniwebsite.netlify.app)
+- **Data Analysis & ML Platform:** [Hugging Face Spaces](https://huggingface.co/spaces/chinni07/DataAnalysisandMachineLearningPlatform)
+- **Resume:** Available upon request
+
+---
+
+## 💡 What I'm Currently Learning
+
+- Advanced Python concepts and optimization techniques
+- Deep Learning (Neural Networks, TensorFlow)
+- Time Series Analysis and Forecasting
+- Advanced SQL and database optimization
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm looking for opportunities to contribute to:
+- Open-source Python & Data Science projects
+- Machine Learning and AI applications
+- Full-stack web development projects
+- Data Analysis and visualization projects
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [lohithgayam007@gmail.com](mailto:lohithgayam007@gmail.com)
+- **LinkedIn:** [Lohith Reddy Gayam](https://www.linkedin.com/in/lohith-reddy-gayam-14906a296)
+- **Phone:** +91 7842200768
+- **GitHub:** [@lohith008-cloud](https://github.com/lohith008-cloud)
+
+---
+
+## 🌍 Languages
+
+English • Hindi • Telugu • Tamil
+
+---
+
+⚡ **Fun Fact:** I'm not just a coder—I'm also an athlete with achievements in cricket (Best Player 2022) and badminton (Best Player 2019)!
