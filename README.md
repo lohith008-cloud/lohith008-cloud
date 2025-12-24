@@ -96,8 +96,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 - **Public Repositories:** 15+
