@@ -144,17 +144,18 @@
 
 ---
 
-## 📈 GitHub Stats
+---
 
 <div align="center">
+  <h2>⚡ Passionate About Data & Code ⚡</h2>
+  <p><strong>🌟 Key Statistics:</strong></p>
+  <p>💻 9+ Repositories | 🚀 Full-Stack Developer | 🧠 ML Enthusiast</p>
+  <p>Python | SQL | Power BI | FastAPI | PHP | Docker | GitHub | AWS</p>
+  <br/>
+  <p><em>All code and projects available on GitHub - star if you find them useful! ⭐</em></p>
+  <p><strong>Last updated: December 2025</strong></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lohith008-cloud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith008-cloud&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>cloud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/lohith008-cloud)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith008-cloud&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/lohith008-cloud)
+[[](url)](url)[[[](url)](url)](url)[[[[](url)](url)](url)](url)[[[[[](url)](url)](url)](url)](url)[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith008-cloud&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/lohith008-cloud)
 
 </div>
 </div>
