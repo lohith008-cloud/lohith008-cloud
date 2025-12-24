@@ -7,6 +7,16 @@
   <p><strong>Currently seeking</strong> Data Scientist / Data Analyst roles where I can apply Python, ML algorithms, and data visualization skills.</p>
 </div>
 
+## 📚 What I'm Learning
+
+- **Advanced Machine Learning:** Deep learning with PyTorch, neural network optimization
+- **Data Engineering:** ETL pipelines, data warehousing with cloud platforms
+- **MLOps & Deployment:** Model versioning, production ML pipelines, containerization
+- **Cloud Platforms:** AWS Lambda, S3, RDS, and cloud-based ML services
+- **Advanced Analytics:** Time series forecasting, causal inference, feature engineering at scale
+
+---
+
 ---
 
 ## 🛠️ Technical Skills
@@ -104,7 +114,7 @@
 **Bachelor of Engineering in Computer Science and Engineering**
 - Saveetha School of Engineering, Chennai
 - CGPA: 8.21/10
-- Graduation: 2024
+- Graduation: 2025
 
 ---
 
