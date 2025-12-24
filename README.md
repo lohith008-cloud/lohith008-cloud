@@ -148,10 +148,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohith008-cloud&show_icons=true&theme=tokyonight&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohith008-cloud&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/lohith008-cloud)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith008-cloud&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith008-cloud&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/lohith008-cloud)
 
+</div>
 </div>
 
 ---
