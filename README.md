@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Lohith Reddy Gayam
 
+
 <div align="center">
   <p><strong>Data Science & ML Fresher | Python | SQL | Power BI | Machine Learning Enthusiast</strong></p>
   <p>Recently graduated from <strong>Saveetha School of Engineering</strong> (B.E CSE, CGPA: 8.21)</p>
@@ -126,3 +127,20 @@
 ---
 
 **✨ Open to collaborations, freelance projects, and internship opportunities!**
+
+## 📄 Professional Resumes
+
+### Data Analyst Resume
+- **Overleaf Project:** [Data-Analyst-Resume](https://www.overleaf.com/project/699466655cecf116379ce382)
+- **Focus:** Business Intelligence, Data Visualization, Analytics
+- **ATS Score:** 80%+ optimized
+- **Key Projects:** Superbike BI Dashboard, Electric Vehicles Analysis, Insurance Fraud Detection
+
+### Data Engineer Resume  
+- **Overleaf Project:** [Data-Engineer-Resume](https://www.overleaf.com/project/6996ed73cec41f1503048756)
+- **Focus:** Data Pipelines, ETL, Cloud Platforms, Database Design
+- **ATS Score:** 82-92% estimated (80%+ verified)
+- **Key Projects:** Dairy Farm Management System, Automated EDA Toolkit
+- **Analysis Report:** [View Full ATS Report](https://docs.google.com/document/d/183Xq7fCJ1m8NMQPPxZHYXHwlpAnZOjFfft3pRZVj7R0/edit?usp=sharing)
+
+---
