@@ -1,110 +1,83 @@
 # 👋 Hi, I'm Lohith Reddy Gayam
 
-
 <div align="center">
-  <p><strong>Data Science & ML Fresher | Python | SQL | Power BI | Machine Learning Enthusiast</strong></p>
+  <p><strong>Machine Learning Engineer · Data Scientist · AI Engineer</strong></p>
   <p>Recently graduated from <strong>Saveetha School of Engineering</strong> (B.E CSE, CGPA: 8.21)</p>
-  <p>with a passion for turning data into actionable insights.</p>
-  <p><strong>Currently seeking</strong> Data Scientist / Data Analyst roles where I can apply Python, ML algorithms, and data visualization skills.</p>
+  <p>with hands-on experience building end-to-end ML pipelines, predictive classification models, and deployed AI applications.</p>
+  <p><strong>Currently seeking</strong> an entry-level Data Scientist, Machine Learning Engineer, or AI Engineer role.</p>
+  <p>📍 Hyderabad, India &nbsp;|&nbsp; 📧 lohithgayam007@gmail.com &nbsp;|&nbsp; 📱 +91 7842200768</p>
 </div>
 
-## 📚 What I'm Learning
+## 📚 Professional Summary
 
-- **Advanced Machine Learning:** Deep learning with PyTorch, neural network optimization
-- **Data Engineering:** ETL pipelines, data warehousing with cloud platforms
-- **MLOps & Deployment:** Model versioning, production ML pipelines, containerization
-- **Cloud Platforms:** AWS Lambda, S3, RDS, and cloud-based ML services
-- **Advanced Analytics:** Time series forecasting, causal inference, feature engineering at scale
-
----
+Entry-level Machine Learning Engineer and Data Scientist skilled in Python, Scikit-learn, XGBoost, TensorFlow, Pandas, FastAPI, Streamlit, Docker, Natural Language Processing (NLP), and SQL. Delivered models with 90%+ accuracy on real-world datasets and deployed production-ready apps via Streamlit, Docker, and REST APIs. Oracle-certified Data Scientist and Microsoft Azure AI certified.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data & Machine Learning
+### 📊 Languages & ML/AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B00?style=for-the-badge&logo=xgboost&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 💻 Web Development
-![Python](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AZURE](https://img.shields.io/badge/AZURE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**ML / AI:** Classification, Regression, Feature Engineering, Hyperparameter Tuning, Cross-Validation, SMOTE, Model Evaluation, EDA, NLP, Deep Learning, Predictive Modeling, Imbalanced Learning, Statistical Modeling, Model Deployment
+
+### ⚙️ MLOps & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📈 Data Visualization & BI
+REST APIs, Pickle, Joblib, docker-compose, Hugging Face Spaces, Render, CI/CD Fundamentals, Jupyter Notebook
+
+### 📈 Data & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Power BI (DAX, Star Schema, Power Query), Geopy, Automated EDA
 
 ---
 
 ## 📈 Featured Projects
 
-### 🔐 Insurance Fraud Detection ML System
-**Technologies:** Python, Scikit-Learn, Pandas, NumPy, Flask, MySQL
-- **Impact:** Achieved 94.2% accuracy in fraud detection using ensemble ML models
-- **Features:** Predictive modeling with Random Forest & XGBoost, data preprocessing & feature engineering, REST API backend
-- **Skills:** Machine Learning, Data Analysis, Backend Development, Model Deployment
+### 🏔️ Landslide Risk Prediction System — Real-Time Geospatial ML Application
+**Technologies:** Python, XGBoost, Scikit-learn, SMOTE, Streamlit, Geopy, Plotly, Pandas, Joblib, Python-dotenv
+- Built a real-time landslide risk prediction system using XGBoost gradient boosting on geospatial and environmental features (rainfall, slope, elevation, soil type); applied SMOTE to handle class imbalance and improve recall on high-risk minority events
+- Engineered a geolocation-aware pipeline using Geopy for coordinate-based location resolution, python-dotenv for secure API key management, and Joblib for efficient model serialization
+- Deployed as an interactive Streamlit web app with real-time Plotly risk-level dashboards and dynamic input forms — full MLOps pipeline from training to live deployment
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Landslide-Risk-Prediction-System)
+
+### 🔐 Insurance Fraud Detection — Production ML Pipeline
+**Technologies:** Python, Scikit-learn, SMOTE, FastAPI, Docker, Streamlit, Pandas, GridSearchCV, Render
+- Built end-to-end binary classification pipeline on 10,000+ insurance records using Decision Tree Classifier; achieved 93% accuracy (Precision: 0.92, Recall: 0.91, F1: 0.92) via GridSearchCV and 5-fold cross-validation; applied SMOTE (+18% minority recall)
+- Engineered 15+ predictive features through IQR outlier removal and domain-driven feature engineering; serialized model with Pickle for FastAPI REST API serving; containerized with Docker + docker-compose and deployed to Render cloud
 - [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Insurance-Fraud-Detection-ML)
 
-### 🐄 Dairy Farm Management System
-**Technologies:** FastAPI, React, MySQL, Docker, AWS EC2
-- **Impact:** Reduced manual data entry by 85% through automation; real-time inventory tracking for 200+ dairy products
-- **Features:** Full-stack web application with secure session-based authentication, role-based access control, production dashboard
-- **Skills:** Full-Stack Development, Database Design, Cloud Deployment, API Development
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Dairy-Farm-Management-System)
-
-### 📊 Superbike Business Intelligence KPI Dashboard
-**Technologies:** Power BI, SQL, Excel, Data Warehousing
-- **Impact:** 40% improvement in decision-making speed through real-time KPI visualization
-- **Features:** Multi-dimensional analysis with drill-down capabilities, interactive dashboards monitoring 15+ KPIs, DAX calculations for trend analysis
-- **Skills:** Business Intelligence, Data Visualization, SQL Analytics, Stakeholder Reporting
-- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Superbike-Business-Intelligence-KPI-Dashboard)
+### 📊 Customer Churn Prediction — Multi-Model Classification System
+**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Power BI, Pickle
+- Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree classifiers; achieved 88%+ accuracy with k-fold cross-validation and ROC-AUC evaluation; identified top 8 churn drivers via feature selection and RFE
+- Built complete preprocessing pipeline (label encoding, normalization, train-test split); created Power BI business dashboard with DAX measures; packaged model with Pickle for REST API integration enabling real-time churn scoring
+- [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud/Customer-Churn-Prediction)
 
 ---
 
-## 🎯 Core Competencies
+## 💼 Work Experience
 
-| Category | Skills |
-|----------|--------|
-| **ML & AI** | Predictive Modeling, Feature Engineering, Neural Networks, Ensemble Methods, Classification & Regression |
-| **Data Skills** | Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization |
-| **Programming** | Python, JavaScript, SQL, Object-Oriented Programming |
-| **Backend Dev** | REST APIs, FastAPI, Flask, Database Design, Authentication Systems |
-| **Frontend Dev** | React, HTML5, CSS3, JavaScript ES6+, Responsive Design |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Git, CI/CD Pipelines |
-| **Tools & Platforms** | Jupyter Notebook, VS Code, GitHub, Power BI, Tableau, MySQL Workbench |
-
----
-
-## 📊 GitHub Activity
-
-- **Public Repositories:** 15+
-- **Total Commits:** 100+
-- **Open Source Contributions:** Data Science & ML Projects
-- **Primary Languages:** Python, SQL, JavaScript
-- **Profile Views:** 100+
-- **Network:** 500+ Connections
+**Python Programming Intern** · DATASOFTX (Startup), Chennai · Jan – Feb 2025
+- Built a data-driven Student Management System using Python and Pandas with OOP principles
+- Improved data accuracy by 60% via structured exception handling and input validation
+- Managed codebase with Git & GitHub following CI/CD and SDLC best practices
 
 ---
 
@@ -112,8 +85,23 @@
 
 **Bachelor of Engineering in Computer Science and Engineering**
 - Saveetha School of Engineering, Chennai
-- CGPA: 8.3/10
-- Graduation: 2025
+- CGPA: 8.21/10
+- Graduation: May 2025
+
+**Class XII – Intermediate (MPC)**
+- Sri Chaitanya Junior College, Vijayawada — 80.3% (Mar 2021)
+
+**Class X – SSC**
+- Flora English Medium School, Vuyyuru — GPA: 9.7/10 (Apr 2019)
+
+---
+
+## 📜 Certifications
+
+- Oracle – Data Science Professional (2025)
+- Cisco – Data Analytics Essentials (2025)
+- Microsoft – Azure AI Fundamentals: Generative AI (2024)
+- Udemy – Python Programming (2024)
 
 ---
 
@@ -121,26 +109,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-reddy-gayam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohithreddy.gayam@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/lohith008-cloud)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohithgayam007@gmail.com)
 
 ---
 
 **✨ Open to collaborations, freelance projects, and internship opportunities!**
-
-## 📄 Professional Resumes
-
-### Data Analyst Resume
-- **Overleaf Project:** [Data-Analyst-Resume](https://www.overleaf.com/project/699466655cecf116379ce382)
-- **Focus:** Business Intelligence, Data Visualization, Analytics
-- **ATS Score:** 80%+ optimized
-- **Key Projects:** Superbike BI Dashboard, Electric Vehicles Analysis, Insurance Fraud Detection
-
-### Data Engineer Resume  
-- **Overleaf Project:** [Data-Engineer-Resume](https://www.overleaf.com/project/6996ed73cec41f1503048756)
-- **Focus:** Data Pipelines, ETL, Cloud Platforms, Database Design
-- **ATS Score:** 82-92% estimated (80%+ verified)
-- **Key Projects:** Dairy Farm Management System, Automated EDA Toolkit
-- **Analysis Report:** [View Full ATS Report](https://docs.google.com/document/d/183Xq7fCJ1m8NMQPPxZHYXHwlpAnZOjFfft3pRZVj7R0/edit?usp=sharing)
-
----
