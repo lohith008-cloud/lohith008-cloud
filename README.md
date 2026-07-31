@@ -112,7 +112,7 @@
 
 **Bachelor of Engineering in Computer Science and Engineering**
 - Saveetha School of Engineering, Chennai
-- CGPA: 8.21/10
+- CGPA: 8.3/10
 - Graduation: 2025
 
 ---
