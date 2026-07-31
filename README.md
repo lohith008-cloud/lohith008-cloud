@@ -17,34 +17,34 @@ Entry-level Machine Learning Engineer and Data Scientist skilled in Python, Scik
 ## 🛠️ Technical Skills
 
 ### 📊 Languages & ML/AI
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FF6B00?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)](https://dev.mysql.com/doc/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
+<a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-FF6B00?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
 
 **ML / AI:** Classification, Regression, Feature Engineering, Hyperparameter Tuning, Cross-Validation, SMOTE, Model Evaluation, EDA, NLP, Deep Learning, Predictive Modeling, Imbalanced Learning, Statistical Modeling, Model Deployment
 
 ### ⚙️ MLOps & Deployment
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)](https://restfulapi.net/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohith008-cloud)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces)
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+<a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://github.com/lohith008-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://huggingface.co/spaces"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 
 Pickle, Joblib, docker-compose, Render, CI/CD Fundamentals, [Jupyter Notebook](https://jupyter.org/)
 
 ### 📈 Data & Visualization
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+<a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 
 Power BI (DAX, Star Schema, Power Query), [Geopy](https://geopy.readthedocs.io/), Automated EDA
 
@@ -88,7 +88,7 @@ Power BI (DAX, Star Schema, Power Query), [Geopy](https://geopy.readthedocs.io/)
 
 **Bachelor of Engineering in Computer Science and Engineering**
 - Saveetha School of Engineering, Chennai
-- CGPA: 8.3/10
+- CGPA: 8.21/10
 - Graduation: May 2025
 
 **Class XII – Intermediate (MPC)**
