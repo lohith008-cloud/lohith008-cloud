@@ -26,7 +26,7 @@ Entry-level Machine Learning Engineer and Data Scientist skilled in Python, Scik
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
 
-**ML / AI:** Classification, Regression, Feature Engineering, Hyperparameter Tuning, Cross-Validation, SMOTE, Model Evaluation, EDA, NLP, Deep Learning, Predictive Modeling, Imbalanced Learning, Statistical Modeling, Model Deployment
+<br/><strong>ML / AI:</strong> Classification, Regression, Feature Engineering, Hyperparameter Tuning, Cross-Validation, SMOTE, Model Evaluation, EDA, NLP, Deep Learning, Predictive Modeling, Imbalanced Learning, Statistical Modeling, Model Deployment
 
 ### ⚙️ MLOps & Deployment
 <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
@@ -37,7 +37,7 @@ Entry-level Machine Learning Engineer and Data Scientist skilled in Python, Scik
 <a href="https://github.com/lohith008-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://huggingface.co/spaces"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 
-Pickle, Joblib, docker-compose, Render, CI/CD Fundamentals, [Jupyter Notebook](https://jupyter.org/)
+<br/>Pickle, Joblib, docker-compose, Render, CI/CD Fundamentals, <a href="https://jupyter.org/">Jupyter Notebook</a>
 
 ### 📈 Data & Visualization
 <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
@@ -46,7 +46,7 @@ Pickle, Joblib, docker-compose, Render, CI/CD Fundamentals, [Jupyter Notebook](h
 <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 
-Power BI (DAX, Star Schema, Power Query), [Geopy](https://geopy.readthedocs.io/), Automated EDA
+<br/>Power BI (DAX, Star Schema, Power Query), <a href="https://geopy.readthedocs.io/">Geopy</a>, Automated EDA
 
 ---
 
